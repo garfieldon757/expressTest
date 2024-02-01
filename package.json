@@ -1,0 +1,22 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "espress 后端验证项目",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garfieldon757/expressTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garfieldon757/expressTest/issues"
+  },
+  "homepage": "https://github.com/garfieldon757/expressTest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
